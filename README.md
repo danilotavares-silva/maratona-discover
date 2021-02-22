@@ -1,2 +1,3 @@
-# maratona-discover
- Pratica da maratona Discover 2021
+# Maratona Discover
+
+Atividade prática desenvolvida na maratona ***Discover 2021***.
